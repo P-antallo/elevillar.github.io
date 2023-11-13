@@ -34,8 +34,10 @@ body {
   }
 
   .navbar-brand{
-    width: 100px;
+    width: 200px;
   }
 
 }
-
+.footer-ele {
+  height: 100px;
+}
